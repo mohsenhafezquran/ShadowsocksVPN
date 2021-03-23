@@ -1,0 +1,241 @@
+[
+  {
+    "server": "45.9.249.243",
+    "server_port": 35905,
+    "password": "tDKgKtnZts93mFqvauQBrdFN",
+    "method": "aes-256-gcm",
+    "remarks": "🇦🇪 AE-Dubai",
+    "route": "all",
+    "remote_dns": "0.0.0.0",
+    "ipv6": true,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "45.9.249.245",
+    "server_port": 35905,
+    "password": "tDKgKtnZts93mFqvauQBrdFN",
+    "method": "aes-256-gcm",
+    "remarks": "🇦🇪 AE-Dubai",
+    "route": "all",
+    "remote_dns": "0.0.0.0",
+    "ipv6": true,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "45.9.249.247",
+    "server_port": 35905,
+    "password": "tDKgKtnZts93mFqvauQBrdFN",
+    "method": "aes-256-gcm",
+    "remarks": "🇦🇪 AE-Dubai",
+    "route": "all",
+    "remote_dns": "0.0.0.0",
+    "ipv6": true,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "45.9.250.99",
+    "server_port": 35905,
+    "password": "tDKgKtnZts93mFqvauQBrdFN",
+    "method": "aes-256-gcm",
+    "remarks": "🇦🇪 AE-Dubai",
+    "route": "all",
+    "remote_dns": "0.0.0.0",
+    "ipv6": true,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "45.9.250.101",
+    "server_port": 35905,
+    "password": "tDKgKtnZts93mFqvauQBrdFN",
+    "method": "aes-256-gcm",
+    "remarks": "🇦🇪 AE-Dubai",
+    "route": "all",
+    "remote_dns": "0.0.0.0",
+    "ipv6": true,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "45.9.250.103",
+    "server_port": 35905,
+    "password": "tDKgKtnZts93mFqvauQBrdFN",
+    "method": "aes-256-gcm",
+    "remarks": "🇦🇪 AE-Dubai",
+    "route": "all",
+    "remote_dns": "0.0.0.0",
+    "ipv6": true,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "176.125.231.3",
+    "server_port": 35905,
+    "password": "tDKgKtnZts93mFqvauQBrdFN",
+    "method": "aes-256-gcm",
+    "remarks": "🇦🇪 AE-Dubai",
+    "route": "all",
+    "remote_dns": "0.0.0.0",
+    "ipv6": true,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "176.125.231.5",
+    "server_port": 35905,
+    "password": "tDKgKtnZts93mFqvauQBrdFN",
+    "method": "aes-256-gcm",
+    "remarks": "🇦🇪 AE-Dubai",
+    "route": "all",
+    "remote_dns": "0.0.0.0",
+    "ipv6": true,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "176.125.231.11",
+    "server_port": 35905,
+    "password": "tDKgKtnZts93mFqvauQBrdFN",
+    "method": "aes-256-gcm",
+    "remarks": "🇦🇪 AE-Dubai",
+    "route": "all",
+    "remote_dns": "0.0.0.0",
+    "ipv6": true,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "176.125.231.13",
+    "server_port": 35905,
+    "password": "tDKgKtnZts93mFqvauQBrdFN",
+    "method": "aes-256-gcm",
+    "remarks": "🇦🇪 AE-Dubai",
+    "route": "all",
+    "remote_dns": "0.0.0.0",
+    "ipv6": true,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "176.125.231.19",
+    "server_port": 35905,
+    "password": "tDKgKtnZts93mFqvauQBrdFN",
+    "method": "aes-256-gcm",
+    "remarks": "🇦🇪 AE-Dubai",
+    "route": "all",
+    "remote_dns": "0.0.0.0",
+    "ipv6": true,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "176.125.231.21",
+    "server_port": 35905,
+    "password": "tDKgKtnZts93mFqvauQBrdFN",
+    "method": "aes-256-gcm",
+    "remarks": "🇦🇪 AE-Dubai",
+    "route": "all",
+    "remote_dns": "0.0.0.0",
+    "ipv6": true,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "176.125.231.27",
+    "server_port": 35905,
+    "password": "tDKgKtnZts93mFqvauQBrdFN",
+    "method": "aes-256-gcm",
+    "remarks": "🇦🇪 AE-Dubai",
+    "route": "all",
+    "remote_dns": "0.0.0.0",
+    "ipv6": true,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "176.125.231.29",
+    "server_port": 35905,
+    "password": "tDKgKtnZts93mFqvauQBrdFN",
+    "method": "aes-256-gcm",
+    "remarks": "🇦🇪 AE-Dubai",
+    "route": "all",
+    "remote_dns": "0.0.0.0",
+    "ipv6": true,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "176.125.231.35",
+    "server_port": 35905,
+    "password": "tDKgKtnZts93mFqvauQBrdFN",
+    "method": "aes-256-gcm",
+    "remarks": "🇦🇪 AE-Dubai",
+    "route": "all",
+    "remote_dns": "0.0.0.0",
+    "ipv6": true,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "176.125.231.37",
+    "server_port": 35905,
+    "password": "tDKgKtnZts93mFqvauQBrdFN",
+    "method": "aes-256-gcm",
+    "remarks": "🇦🇪 AE-Dubai",
+    "route": "all",
+    "remote_dns": "0.0.0.0",
+    "ipv6": true,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },

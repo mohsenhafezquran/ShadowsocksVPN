@@ -17625,21 +17625,6 @@
     "udpdns": false
   },
   {
-    "server": "162.159.153.8",
-    "server_port": 443,
-    "password": "",
-    "method": "���sm���\\w�uy�����ӯ\\ӭ�m�",
-    "remarks": "MOHSEN",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
     "server": "158.247.200.56",
     "server_port": 8118,
     "password": "cdBIDV42DCwnfIN",
